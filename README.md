@@ -1,16 +1,14 @@
 
 <span align="center">
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> PGR ATTACK</h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> SISTEMA DE VOTAÇÃO 2022</h2><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 </span>
 
 
 
 </span>
-Este Exploit foi criado para desencorajar burladores pelo mau uso de Plataformas Financeiras.
-O Exploit realiza um ataque de brute-force, enviando informações falsas gerada por uma Wordlist aos formularios de Phising (Multicaixa Express, BAI DIRECTO, SOL NET, BFA NET.........)
-
+Sistema de votação  CNE 2022 em Python, script de caracter educativo e para melhorar habilidades em programação
 
 <p></p>
 
@@ -21,12 +19,11 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 
 # Tutorial
 
-1) git clone https://github.com/Tandelajr/PGR_ATTACK.git
-2) cd PGR_ATTACK
-3) python3 pgr_brute.py
-4) URL: Inserir link do formulario de Phising
-5) Email: Inserir o email da conta do burlador identificado com o Dev Tools dos navegadores (Google Chrome e Firefox )
-6) Nº de disparos: Pressione *ENTER*
+1) git clone https://github.com/Tandelajr/cne2022.git
+2) cd cne2022
+3) python3 cnw.py
+4) Inserir o valor do partido
+
 
 
 <div align="center">
