@@ -28,7 +28,13 @@ while True:
     print('#' * 100)
 
     voto = int(input(f'Vota em:?{os.linesep}1 - PHA{os.linesep}2 - PJANGO{os.linesep}3 - UNITA{os.linesep}4 - FNLA{os.linesep}5 - CASACE{os.linesep}6 - APN{os.linesep}7 - PRS{os.linesep}8 - MPLA{os.linesep} Seu voto:Quem gostaria de votar: '))
-
+    if voto ==1:
+		VOTOS_PHA+=1
+		print(VOTO_PHA)
+	elif voto==2:
+		VOTOS_PJANGO+=1
+	print("Lula: ", VOTO_PHA)
+	print("Bolsonaro: ", VOTOS_PJANGO)
 
 
 
