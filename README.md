@@ -14,7 +14,7 @@ Sistema de votação  CNE 2022 em Python, script de caracter educativo e para me
 
 Link da fonte do Script: https://abiliotandela.me <br>
 
-Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_absent=0
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiteMais informações https://web.whatsapp.com/send?phone=244923469242&text&app_absent=0
 
 
 # Tutorial
