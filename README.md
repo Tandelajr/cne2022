@@ -27,7 +27,7 @@ Link da fonte do Script: https://abiliotandela.me <br>
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/67243528/181101662-eac77503-f877-4281-acf6-a552b103a58c.jpg width="900px" />
+<img src="https://user-images.githubusercontent.com/67243528/181101662-eac77503-f877-4281-acf6-a552b103a58c.jpg" width="900px" />
 </div>
 
 <p align="center">
