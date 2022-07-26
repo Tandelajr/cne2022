@@ -21,8 +21,8 @@ Link da fonte do Script: https://abiliotandela.me <br>
 
 1) git clone https://github.com/Tandelajr/cne2022.git
 2) cd cne2022
-3) python3 cnw.py
-4) Inserir o valor do partido
+3) python3 cne.py
+4) Inserir o voto do partido
 
 
 
